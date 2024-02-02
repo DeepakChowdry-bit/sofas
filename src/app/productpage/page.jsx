@@ -8,7 +8,7 @@ const page = () => {
             <div className='w-full h-120 flex flex-col lg:flex-row md:flex-row justify-end items-center'>
                 <Image src="/sofas/sofa (10).jpg" width={200} height={100} alt='' className='lg:w-50 md:w-50 w-full h-70 lg:h-full md:h-full lg:relative md:relative fixed -z-10 top-0' />
 
-                <div className='flex flex-col justify-center items-center h-50 w-full gap-1 bg-white rounded-t-3xl'>
+                <div className='flex flex-col justify-center items-center h-50 w-full gap-1 bg-white'>
                     <p className='text-zinc-500 text-xss uppercase font-semibold'>
                         <span className='text-black'>By</span> Royaloak
                     </p>
